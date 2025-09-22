@@ -1,0 +1,3 @@
+# PipeOld 
+- Es un script que permite corregir errores de pipewire en pc viejas...
+  
